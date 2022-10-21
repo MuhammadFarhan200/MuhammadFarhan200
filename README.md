@@ -1,10 +1,10 @@
-<h2> Hi there! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> 👋</h2>
+<h2> Hello there! <img src="https://media.tenor.com/lw5QLh73u_MAAAAi/hi.gif" width="50"></h2>
 <img align='right' src="https://media.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="230">
 
 [![GitHub MuhammadFarhan200](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/MuhammadFarhan200)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.tenor.com/uUme9PjQFeMAAAAi/quby-cute.gif" width="50"> A little more about me...  
 
 ```javascript
 const id = {
