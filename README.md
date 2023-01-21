@@ -9,9 +9,9 @@
 ```javascript
 const id = {
   name: "Farhan Nasrulloh",
-  pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, PHP, Bootstrap, Laravel, Flutter],
-  job: "Beginner Programmer | Student at SMK Assalaam Bandung",
+  pronouns: "he | him",
+  code: ["Javascript", "HTML", "CSS", "PHP", "Bootstrap", "Laravel"],
+  job: "Beginner Programmer. Student at SMK Assalaam Bandung",
 }
 ```
 
