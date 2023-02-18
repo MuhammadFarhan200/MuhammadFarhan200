@@ -11,7 +11,7 @@ const id = {
   name: "Farhan Nasrulloh",
   pronouns: "he | him",
   code: ["Javascript", "HTML", "CSS", "PHP", "Bootstrap", "Laravel"],
-  job: "Beginner Programmer. Student at SMK Assalaam Bandung",
+  job: "Beginner Programmer, Student at SMK Assalaam Bandung",
 }
 ```
 
