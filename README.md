@@ -10,7 +10,7 @@
 const id = {
   name: "Farhan Nasrulloh",
   pronouns: "he | him",
-  code: ["Javascript", "HTML", "CSS", "PHP", "Bootstrap", "Laravel"],
+  code: ["Javascript", "HTML", "CSS", "PHP", "Bootstrap", "Laravel", "Dart", ""Flutter],
   job: "Junior Programmer, Student at SMK Assalaam Bandung",
 }
 ```
