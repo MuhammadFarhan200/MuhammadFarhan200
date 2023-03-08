@@ -10,7 +10,7 @@
 const aboutMe = {
   name: "Farhan Nasrulloh",
   pronouns: "he | him",
-  code: ["Javascript", "HTML", "CSS", "PHP", "Laravel", "Dart", "Flutter"],
+  code: ["Javascript", "HTML", "CSS", "PHP", "Dart"],
   job: "Junior Programmer, Student at SMK Assalaam Bandung",
 }
 ```
