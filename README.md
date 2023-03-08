@@ -7,7 +7,7 @@
 ### <img src="https://media.tenor.com/uUme9PjQFeMAAAAi/quby-cute.gif" width="50"> A little more about me...  
 
 ```javascript
-const id = {
+const aboutMe = {
   name: "Farhan Nasrulloh",
   pronouns: "he | him",
   code: ["Javascript", "HTML", "CSS", "PHP", "Bootstrap", "Laravel", "Dart", "Flutter"],
