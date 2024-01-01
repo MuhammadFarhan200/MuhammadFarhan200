@@ -37,3 +37,4 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="40" width="40">](https://www.postgresql.org)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="40" width="40">](https://react.dev/)
 [<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="40" width="40">](https://tailwindcss.com/)
+[<img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" alt="next" width="40" height="40"/>](https://nextjs.org/)
