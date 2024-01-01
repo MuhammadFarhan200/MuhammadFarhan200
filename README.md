@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammad Farhan Nasrulloh Sidik</h1>
-<p align="left"><img src="https://media.tenor.com/uUme9PjQFeMAAAAi/quby-cute.gif" width="40"> You can call me Farhan. I am <b>Full Stack Developer</b> from Indonesia</h3>
+<p align="left"><img src="https://media.tenor.com/uUme9PjQFeMAAAAi/quby-cute.gif" width="40"> You can call me Farhan. I am <b>Software Engineer</b> from Indonesia</h3>
 
 <img align='right' src="https://media.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="230">
 
 - 🌱 I’m currently learning **ReactJs, NextJs, Docker, .NET, TypeScript, Front End Performance**
 
-- 👨‍💻 I’m currentlty working as a Full Stack Developer at a software house in Indonesia. Write program code according to software design requirements, carry out program tests, coordinate with team leaders and project managers
+- 👨‍💻 I’m currentlty working as a Software Engineer at a software house in Indonesia. Write program code according to software design requirements, carry out program tests, coordinate with team leaders and project managers
 
 - 📫 How to reach me farhannsrllh177@gmail.com
 
