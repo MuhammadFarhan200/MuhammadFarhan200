@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Muhammad Farhan Nasrulloh Sidik</h1>
-<p align="left"><img src="https://media.tenor.com/uUme9PjQFeMAAAAi/quby-cute.gif" width="40"> You can call me Farhan. I am <b>Software Engineer</b> from Indonesia</p>
+<h1 align="center"><img src="https://media.tenor.com/zlErAhzxckwAAAAi/kawaii-love.gif" width="60">, I'm Muhammad Farhan Nasrulloh Sidik</h1>
+<p align="left">You can call me Farhan. I am <b>Software Engineer</b> from Indonesia</p>
 
 <img align='right' src="https://media.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="230">
 
